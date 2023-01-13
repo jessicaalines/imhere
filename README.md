@@ -1,24 +1,15 @@
-<h1 align="center">I'm Here</h1>
+# I'm Here
 
-<p align="center">Aplicação para gerenciar os participantes presentes em eventos, como palestras e workshops, através da trilha Ignite da Rocketseat.</p>
+## Aplicação para gerenciar os participantes presentes em eventos, como palestras e workshops, através da trilha Ignite da Rocketseat.
 
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> •    
- <a href="#autor">Autor</a>
-</p>
+### ✔️  I'm Here 🚀 Concluído  ✔️
 
 
-<h4 align="center"> 
-	✔️  I'm Here 🚀 Concluído  ✔️
-</h4>
 
+![preview](./src/assets/screenshots/imhere1.png)
+![preview](./src/assets/screenshots/imhere2.png)
+![preview](./src/assets/screenshots/imhere3.png)
 
-![preview]
-(./src/assets/screenshots/imhere1.png)
-(./src/assets/screenshots/imhere2.png)
-(./src/assets/screenshots/imhere3.png)
 
 ### Pré-requisitos
 
